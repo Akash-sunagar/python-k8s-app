@@ -136,21 +136,3 @@ Kubernetes Deployment and Service
 
 CI/CD with GitHub Actions
 
-Secret management
-
-Automated image builds
-
-Future Improvements
-
-Automatic deployment to Kubernetes from pipeline
-
-Helm chart integration
-
-Monitoring with Prometheus and Grafana
-
-Logging with ELK stack
-
-Author
-
-Akash Sunagar
-DevOps Engineer (Aspiring)
